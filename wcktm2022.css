@@ -23,6 +23,6 @@
 }
 
 .some-sample-class {
-    font-family: glacialindifference, serif;
+    font-family: glacialindifference, 'Open Sans', sans-serif;
     font-weight: 400;
 }
