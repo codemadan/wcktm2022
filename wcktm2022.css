@@ -28,6 +28,11 @@
 }
 
 .some-sample-class {
-    font-family: glacialindifference;
+    font-family: glacialindifference, serif;
+    font-weight: 400;
+}
+
+.banner-caption span{
+    font-family: glacialindifference, serif;
     font-weight: 400;
 }
