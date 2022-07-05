@@ -1,9 +1,4 @@
 @font-face {
-    font-family: glacialindifference;
-    src: url( glacialindifference/GlacialIndifference-Regular.woff);
-}
-
-@font-face {
     font-family: "glacialindifference";
     src: url("https://api.github.com/repos/codemadan/wcktm2022/contents/glacialindifference/GlacialIndifference-Regular.otf");
     src: url("https://api.github.com/repos/codemadan/wcktm2022/contents/glacialindifference/GlacialIndifference-Regular.woff") format("woff");
